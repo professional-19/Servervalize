@@ -1,7 +1,5 @@
-
 {
-  "app_name": "تطبيق بناء تطبيقات",
-  "version": 1,
-  "update_url": "https://contact-me.surge.sh/",
+  "version": 2,
+  "update_url": "https:\/\/contact-me.surge.sh\/",
   "enabled": true
 }
